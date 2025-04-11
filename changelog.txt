@@ -1,0 +1,4 @@
+26/08/2023, 01:47 - v1.1.3:
+ -Risolto bug che faceva crashare il programma quando il comando di riconnessione dava errore: ora il sistema si riavviera' in caso di questo errore
+ -Rimossi commenti inutili
+ -Miglioramenti generali alla leggibilità del codice
